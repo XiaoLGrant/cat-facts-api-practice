@@ -1,0 +1,32 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+html {
+  text-align: center;
+  background: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+img{
+  display: block;
+  margin: 2% auto;
+  height: 50vh;
+}
+
+p {
+  padding: 0 20%;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
